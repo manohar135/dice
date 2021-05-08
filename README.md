@@ -1,2 +1,0 @@
-# dice
-Dice simulation 
